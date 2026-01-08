@@ -51,21 +51,18 @@ Method 2: Manual Installation
 
 ```bash
 # Step 1: Update packages
-pkg update && pkg upgrade -y
+```pkg update && pkg upgrade -y
 
 # Step 2: Install git
-pkg install git -y
+```pkg install git -y
 
-# Step 3: Clone repository
-git clone https://github.com/foysal0078/Fahim-Banner-Creator.git
+# Step 3: git
+```git clone https://github.com/foysal0078/Fahim-Banner-Creator
 
-# Step 4: Navigate to directory
-cd Fahim-Banner-Creator
-
-# Step 5: Run installer
-chmod +x fahim-banner.sh
-./fahim-banner.sh
-```
+# Step 4:  Run installer
+```cd Fahim-Banner
+```ls
+```bash fahim-banner.sh
 
 🎯 Usage
 
