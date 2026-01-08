@@ -47,23 +47,18 @@ Method 1: Quick Install (Recommended)
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/foysal0078/Fahim-Banner-Creator/main/install.sh)"
 ```
 
-Method 2: Manual Installation
+Method 2: Run installer
 
 ```bash
 # Step 1: Update packages
-pkg update && pkg upgrade -y```
-
-# Step 2: Install git
+pkg update && pkg upgrade -y
+```
 ```bash
 pkg install git -y
 ```
-
-# Step 3: git
 ```bash
 git clone https://github.com/foysal0078/Fahim-Banner-Creator
 ```
-
-# Step 4:  Run installer
 ```bash
 cd Fahim-Banner
 ```
@@ -71,7 +66,7 @@ cd Fahim-Banner
 ls
 ```
 ```bash
-fahim-banner.sh
+bash fahim-banner.sh
 ```
 
 🎯 Usage
